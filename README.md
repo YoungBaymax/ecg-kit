@@ -1,3 +1,5 @@
+包含了R点检测的算法总结，见QRS detector
+
 Check the web page of this project at 
 
 # http://marianux.github.io/ecg-kit/
